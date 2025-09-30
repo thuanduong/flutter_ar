@@ -6,3 +6,7 @@
 *.cpp filter=lfs diff=lfs merge=lfs -text
 *.c filter=lfs diff=lfs merge=lfs -text
 *.assets.resS filter=lfs diff=lfs merge=lfs -text
+.dat filter=lfs diff=lfs merge=lfs -text
+flutter/ios/unityLibrary/Data/globalgamemanagers.assets.resS filter=lfs diff=lfs merge=lfs -text
+flutter/ios/unityLibrary/Data/resources.assets.resS filter=lfs diff=lfs merge=lfs -text
+flutter/ios/unityLibrary/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
